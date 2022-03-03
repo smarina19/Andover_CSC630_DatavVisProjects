@@ -13,4 +13,4 @@ https://observablehq.com/@clairebookworm/iq
 https://github.com/sofiamarina1/CSC630_individual_project
 
 # Final Group Project w/Dakota Chang - Phillipian Vizualizations
-It's tricky to embed a tableau file...it can be found on the computer in the OWHL in Mr. S's office.
+It's tricky to embed a tableau file...it can be found on the computer in the OWHL in Mr. S's office and on Dakota's personal website.
