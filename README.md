@@ -3,6 +3,9 @@
 # Daily visualizations can be found here:
 https://rapid-dear-split.glitch.me
 
+# Addison Visualization Project
+https://github.com/dcoder0111/csc630/tree/main/Addison
+
 # Group Project w/Dakota Chang - Bertin Visual Variables
 https://github.com/CSC630/group-task-2/tree/main/group-2
 
