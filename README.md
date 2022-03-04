@@ -13,7 +13,7 @@
 ![observable](https://observablehq.com/@clairebookworm/iq)
 
 # Individual Project - Map-Based
-![github repo]https://github.com/sofiamarina1/CSC630_individual_project
+![github repo](https://github.com/sofiamarina1/CSC630_individual_project)
 
 # Final Group Project w/Dakota Chang - Phillipian Vizualizations
-![Tableau file] https://drive.google.com/file/d/1M1u7xRBmvGuRPBV_bG5jnhPH7Pg8MdLD/view
+![Tableau file](https://drive.google.com/file/d/1M1u7xRBmvGuRPBV_bG5jnhPH7Pg8MdLD/view)
